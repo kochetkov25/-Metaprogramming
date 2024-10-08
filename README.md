@@ -1,2 +1,2 @@
-# -Metaprogramming
+# Metaprogramming
 task from stepik.org
